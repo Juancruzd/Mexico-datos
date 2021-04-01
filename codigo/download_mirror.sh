@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 set -euo pipefail
 
 # El siguiente espejo fue creado para nuestro equipo
