@@ -38,8 +38,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description='procesa archivo de datos abiertos')
     parser.add_argument('input_file', help='el archivo csv comprimido como zip')
-    parser.add_argument('-d', '--date', type=str, default=None,
-                        help='specify the date to use as yyymmdd')
+    parser.add_argument('-d', '--date', type=str, default=None,help='specify the date to use as yyymmdd')
     args = parser.parse_args()
     date_filename, date_iso = parse_date(args)
 
