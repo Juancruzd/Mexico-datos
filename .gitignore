@@ -8,6 +8,7 @@ codigo/deprecated/workflow.sh
 codigo/datos_abiertos*.zip
 codigo/*.py
 codigo/*.sh
+codigo/deprecated
 codigo/deprecated/*.py
 codigo/deprecated/*.js
 codigo/deprecated/*.jl
