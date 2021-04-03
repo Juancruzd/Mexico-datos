@@ -6,7 +6,8 @@ datos_abiertos/raw/datos_abiertos*.csv
 codigo/archive
 codigo/deprecated/workflow.sh
 codigo/datos_abiertos*.zip
-codigo/*.py
+codigo/
+codigo/*.py 
 codigo/*.sh
 codigo/deprecated
 codigo/deprecated/*.py
